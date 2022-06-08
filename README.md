@@ -1,6 +1,6 @@
 ## Title
 
-Text editor
+Text_Editor
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Text editor
 
 ## Description
 
-note taker is an application, the user is able to add notes or comments into a website and save them. Also, the user is able to download the application and take it on the go.
+Text Editor is an application, the user is able to add notes or comments into a website and save them. Also, the user is able to download the application and take it on the go.
 
 ## Installation
 
@@ -23,7 +23,7 @@ NPM i and NPM start to start the application.
 
 ## Usage
 
-Start the application and note taker will open in the browser ready to be used.
+Start the application and the text editor will open in the browser ready to be used.
 ## License
 
 Apache License 2.0
